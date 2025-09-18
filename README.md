@@ -9,7 +9,7 @@
 - 📫 How to reach me: f.farhadi9292@gmail.com
 
 Connect With me:
-![Static Badge](https://img.shields.io/badge/Instagram-__khodeferi__?style=for-the-badge&logo=instagram)
+![Instagram](https://img.shields.io/badge/Instagram-__khodeferi__?style=for-the-badge&logo=instagram)
 
 
 
