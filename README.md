@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farshid Farhadi </h1>
-<h3 align="center">Computer Engineering Student and Software Developer</h3>
+<h3 align="center">A Student and Software Developer</h3>
 
 <!--
 **Farshid34/Farshid34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
